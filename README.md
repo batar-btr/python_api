@@ -30,5 +30,16 @@ The goal of this project is to:
 
 1. Clone this repository:
    ```
-   Hello
+   git clone https://github.com/batar-btr/python_api
+   cd python_api
+   ```
+2. Create and activate virtual environment:
+   ```
+   python -m venv .venv
+   source .venv/bin/activate    # macOS/Linux
+   .venv\Scripts\activate       # Windows
+   ```
+3. Install dependencies:
+   ```
+   pip install -r requirements.txt
    ```
