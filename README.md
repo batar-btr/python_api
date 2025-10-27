@@ -2,6 +2,7 @@
 
 This project is based on **Chapter 16** of _Python Crash Course (3rd Edition)_ by Eric Matthes.  
 The chapter focuses on **working with data**, **using APIs**, and **visualizing data** with libraries like **Plotly** and **Matplotlib**.
+![Most starred Python Projects on GitHub](images/bars.png)
 
 ---
 
